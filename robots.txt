@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://unplugcharger.github.io/My-Data-Science-Playground/sitemap.xml
