@@ -4,8 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I am Mahinya Isaac Byron.
+
+An Electrical and Electronics Engineering graduate from Jommo Kenyatta University of Agriculture and Technology. I am a Data Science enthusiast . In this blog I will showcase all the projects I will work on through my journey from enthusiast to Expert.I am intrested in leveraging technology in the field of Deep Learning, Machine Learning and Artificial intellligence to solve real world problems
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
