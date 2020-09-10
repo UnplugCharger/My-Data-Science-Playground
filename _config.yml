@@ -39,8 +39,8 @@ baseurl: "/My-Data-Science-Playground" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
-    github: fastai
+    twitter: Unplug_Charger
+    github: UnplugCharger
     facebook:
     linkedin:
 
