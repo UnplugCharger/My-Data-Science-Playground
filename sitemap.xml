@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://unplugcharger.github.io/My-Data-Science-Playground/nlp/jupyter/2020/10/09/Disaster_and_Non_Disaster_Tweets_Text_Classification-(1).html</loc>
+<lastmod>2020-10-09T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>https://unplugcharger.github.io/My-Data-Science-Playground/nlp/jupyter/2020/10/09/Disaster_and_Non_Disaster_Tweets_Text_Classification.html</loc>
 <lastmod>2020-10-09T00:00:00-05:00</lastmod>
 </url>
